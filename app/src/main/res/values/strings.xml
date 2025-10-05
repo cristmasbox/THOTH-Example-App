@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">THOTH Example App</string>
+    <string name="title">Test the THOT library here:</string>
+    <string name="content_description_text_input">GlyphX Text</string>
+    <string name="vert_orient_top">top</string>
+    <string name="vert_orient_middle">middle</string>
+    <string name="vert_orient_bottom">bottom</string>
+    <string name="writing_layout_l">lines</string>
+    <string name="writing_layout_c">columns</string>
+    <string name="text_size_title">"Text Size: "</string>
+    <string name="text_size_title_start">"Text Size: 40sp"</string>
+    <string name="button_change_text_color">change text color</string>
+    <string name="button_change_bg_color">change background color</string>
+    <string name="button_change_alt_text_color">change altText color</string>
+    <string name="switch_show_alt_text">show alt text</string>
+    <string name="switch_test_alt_text">test alt text</string>
+    <string name="alt_text_size_title">"Alt Text Size: "</string>
+    <string name="alt_Text_size_title_start">Alt Text Size: 30sp</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- colors of the light theme !-->
+
+    <color name="l_colorPrimary">#008BCE</color>
+    <color name="l_colorPrimaryDark">#01579B</color>
+    <color name="l_textColor">#505050</color>
+    <color name="l_textColorPrimary">#FFFFFF</color>
+    <color name="l_windowBackground">#FFFFFF</color>
+    <color name="l_navigationBarColor">#008BCE</color>
+
+    <!-- colors of the dark theme !-->
+
+    <color name="d_colorPrimary">#006393</color>
+    <color name="d_colorPrimaryDark">#00467C</color>
+    <color name="d_textColor">#CACACA</color>
+    <color name="d_textColorPrimary">#FFFFFF</color>
+    <color name="d_windowBackground">#010101</color>
+    <color name="d_navigationBarColor">#006393</color>
+
+</resources>

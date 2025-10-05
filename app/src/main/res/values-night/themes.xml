@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.THOTHExampleApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:colorPrimary">@color/d_colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/d_colorPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/d_textColorPrimary</item>
+        <item name="android:textColor">@color/d_textColor</item>
+        <item name="android:windowBackground">@color/d_windowBackground</item>
+        <item name="android:navigationBarColor">@color/d_navigationBarColor</item>
+    </style>
+
+    <style name="EditText"><item name="android:textColor">@color/d_textColor</item></style>
+
+    <style name="ThothView">
+        <item name="backgroundColor">@color/d_windowBackground</item>
+        <item name="primarySignColor">@color/d_textColor</item>
+        <item name="altTextColor">@color/d_textColor</item>
+    </style>
+
+</resources>
