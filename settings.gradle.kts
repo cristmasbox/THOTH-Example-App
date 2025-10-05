@@ -22,4 +22,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "THOTH Example App"
 include(":app")
-include(":thoth")
+//include(":thoth")
