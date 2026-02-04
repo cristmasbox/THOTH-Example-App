@@ -14,7 +14,7 @@ constraintlayout = "2.2.1"
 material = "1.13.0"
 opencsv = "5.12.0"
 maat = "1.5.1"
-thoth = "2.0.2"
+thoth = "2.0.3"
 
 [libraries]
 android-keyboardlistener = { module = "com.github.ravindu1024:android-keyboardlistener", version.ref = "androidKeyboardlistener" }
