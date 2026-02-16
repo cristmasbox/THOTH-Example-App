@@ -34,5 +34,8 @@ Support for THOTH 2.0.2 added.
   - adding Paddings between lines, signs, in groups or around the text as a whole is possible now
   - `RTL`-layout is supported and the signs are mirrored
   - multiline texts are possible with the `!` and `!!` sign in `MdC` and with `<br/>` and `<pbr/>` in `glyphX`
+
+### 16.02.2026@2.0.4
+Now it uses the [SignProvider-Library](https://github.com/cristmasbox/SignProvider) only.
 ### Newest Version
-`11.12.2025@2.0.3`
+`16.02.2026@2.0.4`
