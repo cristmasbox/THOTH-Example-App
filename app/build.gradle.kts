@@ -1,5 +1,6 @@
 plugins {
     alias(libs.plugins.android.application)
+    alias(libs.plugins.kotlin.compose)
 }
 
 android {
@@ -10,8 +11,8 @@ android {
         applicationId = "com.blueapps.thothexampleapp"
         minSdk = 23
         targetSdk = 36
-        versionCode = 203
-        versionName = "11.12.2025@2.0.3"
+        versionCode = 204
+        versionName = "16.02.2026@2.0.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
