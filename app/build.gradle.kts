@@ -41,7 +41,8 @@ dependencies {
     implementation(project(":thoth"))
     //implementation(libs.thoth)
 
-    implementation(libs.android.keyboardlistener)
+    // replaced with code
+    //implementation(libs.android.keyboardlistener)
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.ui)
     implementation(libs.androidx.compose.ui.graphics)
