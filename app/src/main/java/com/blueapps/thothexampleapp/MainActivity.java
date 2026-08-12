@@ -7,15 +7,11 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.TypedValue;
 import android.view.View;
-import android.widget.CompoundButton;
 import android.widget.SeekBar;
-import android.widget.Toast;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.blueapps.thothexampleapp.databinding.MainActivityBinding;
-import com.rw.keyboardlistener.KeyboardUtils;
 
 public class MainActivity extends AppCompatActivity {
 
