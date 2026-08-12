@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.blueapps.thothexampleapp"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.blueapps.thothexampleapp"
         minSdk = 23
-        targetSdk = 36
+        targetSdk = 37
         versionCode = 204
         versionName = "16.02.2026@2.0.4"
 
@@ -42,10 +42,7 @@ dependencies {
     //implementation(libs.thoth)
 
     implementation(libs.android.keyboardlistener)
-    implementation(libs.androidx.core.ktx)
-    implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
-    implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.compose.ui)
     implementation(libs.androidx.compose.ui.graphics)
     implementation(libs.androidx.compose.ui.tooling.preview)
