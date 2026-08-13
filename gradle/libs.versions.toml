@@ -13,7 +13,7 @@ material = "1.14.0"
 opencsv = "5.12.0"
 maat = "1.6.0"
 signprovider = "1.0.3"
-thoth = "2.0.4"
+thoth = "2.0.5"
 kotlin = "2.4.10"
 
 [libraries]
