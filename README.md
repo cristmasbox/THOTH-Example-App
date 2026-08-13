@@ -5,6 +5,8 @@ An android app for demonstrating the usage of the [THOTH](https://github.com/Tho
 > This app is only for testing purposes.
 
 ## Version Catalog
+> [!IMPORTANT]
+> Since version `13.08.2026@2.0.5` the version catalog uses the new versioning system [see here](https://medium.com/@wassimsakri/the-ultimate-guide-to-versioning-in-software-development-e846eb292a0d).
 ### 05.10.2025@1.0.0
 This is the first release of the THOTH Example App
 ### 06.10.2025@1.0.1
