@@ -50,4 +50,4 @@ Now it uses the [SignProvider-Library](https://github.com/ThothDroid/SignProvide
     - `<space/>`: `.`
     - `<gap/>`: `..`
 ### Newest Version
-`16.02.2026@2.0.5`
+`13.08.2026@2.0.5`
