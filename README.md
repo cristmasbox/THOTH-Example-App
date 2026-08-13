@@ -45,6 +45,9 @@ Now it uses the [SignProvider-Library](https://github.com/ThothDroid/SignProvide
   - dependency upgrades
   - Fixed bug related to `RTL` layout
   - Support for `space` and `gap` tags added
-- Support for `GlyphConverter:xxx` added:
+- Support for `GlyphConverter:1.8.0` added:
+  - Support for space between signs added:
+    - `<space/>`: `.`
+    - `<gap/>`: `..`
 ### Newest Version
 `16.02.2026@2.0.5`
