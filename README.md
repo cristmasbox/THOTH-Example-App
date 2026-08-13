@@ -20,7 +20,7 @@ instead of typing
 <v><h><sign id="500"/><sign id="500"/><sign id="500"/></h><h><sign id="500"/><sign id="500"/></h></v>
 ```
 ### 26.10.2025@1.1.1
-Support for MdC input added using the [GlyphConverter](https://github.com/cristmasbox/GlyphConverter) library.
+Support for MdC input added using the [GlyphConverter](https://github.com/ThothDroid/GlyphConverter) library.
 ### 08.11.2025@2.0.0
 Support for brackets in MdC added. Now you can type in:
 ```
@@ -37,7 +37,7 @@ Support for THOTH 2.0.2 added.
   - `RTL`-layout is supported and the signs are mirrored
   - multiline texts are possible with the `!` and `!!` sign in `MdC` and with `<br/>` and `<pbr/>` in `glyphX`
 ### 16.02.2026@2.0.4
-Now it uses the [SignProvider-Library](https://github.com/cristmasbox/SignProvider) only.
+Now it uses the [SignProvider-Library](https://github.com/ThothDroid/SignProvider) only.
 ### 13.08.2026@2.0.5
 - NullPointer Exception when changing properties before onDraw() is called fixed
 - ThothListener added

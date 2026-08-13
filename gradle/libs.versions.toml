@@ -19,7 +19,7 @@ kotlin = "2.4.10"
 [libraries]
 android-keyboardlistener = { module = "com.github.ravindu1024:android-keyboardlistener", version.ref = "androidKeyboardlistener" }
 androidx-appcompat = { module = "androidx.appcompat:appcompat", version.ref = "appcompat" }
-glyphconverter = { module = "com.github.cristmasbox:GlyphConverter", version.ref = "glyphconverter" }
+glyphconverter = { module = "com.github.ThothDroid:GlyphConverter", version.ref = "glyphconverter" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
 androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
